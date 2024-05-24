@@ -1,4 +1,4 @@
-Project2: Word Salad
+Project: Word Salad
 ====================
 
 Clien's Concern:
